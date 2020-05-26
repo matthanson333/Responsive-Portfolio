@@ -91,10 +91,25 @@ height: 100%;
       padding-left: 5%;
       padding-right: 5%;
       padding-bottom: 5%;
+      max-width: 480px;
+      margin: auto;
+      text-align: center;
   }
   .contactBorder {
     border-style: single;
     border-width: 1px;
     border-color: darkgray;
     
+  }
+
+  .fa {
+    padding: 20px;
+    font-size: 50px;
+    width: 50px;
+    text-align: center;
+    text-decoration: none;
+  }
+
+.fa:hover {
+    opacity: 1;
   }
