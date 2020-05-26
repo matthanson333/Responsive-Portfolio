@@ -74,3 +74,25 @@
       background-color: aquamarine;
   }
   
+  .cardPad {
+      padding-bottom: 15%;
+  }
+
+  /* .styleColors {
+background-color:#00CED1;
+color: black;
+font: Lucida Sans Unicode", "Lucida Grande", "sans-serif;"
+height: 100%;
+  } */
+
+  .contactStyle {
+      padding-left: 5%;
+      padding-right: 5%;
+      padding-bottom: 5%;
+  }
+  .contactBorder {
+    border-style: single;
+    border-width: 1px;
+    border-color: darkgray;
+    
+  }
